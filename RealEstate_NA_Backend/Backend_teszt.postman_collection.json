@@ -1,0 +1,93 @@
+{
+	"info": {
+		"_postman_id": "4c15e74d-6c5b-4b86-adee-b3e81e81fd6e",
+		"name": "Backend_teszt",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33319503",
+		"_collection_link": "https://warped-flare-893001-1.postman.co/workspace/%25C3%2581llatmenhely~9e288f37-d952-4535-98a4-5dffbd8a676e/collection/33319503-4c15e74d-6c5b-4b86-adee-b3e81e81fd6e?action=share&source=collection_link&creator=33319503"
+	},
+	"item": [
+		{
+			"name": "GetAIngatlanok",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7050/api/Ingatlan",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7050",
+					"path": [
+						"api",
+						"Ingatlan"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InserIngatlan",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"kategoriaId\": 1,\r\n  \"leiras\": \"teszt leírás\",\r\n  \"hirdetesDatuma\": \"2024-05-09T17:03:41.672Z\",\r\n  \"tehermentes\": true,\r\n  \"ar\": 666,\r\n  \"kepUrl\": \"URL\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7050/api/Ingatlan",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7050",
+					"path": [
+						"api",
+						"Ingatlan"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "id",
+						"value": "10",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "https://localhost:7050/api/Ingatlan?id=10",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7050",
+					"path": [
+						"api",
+						"Ingatlan"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

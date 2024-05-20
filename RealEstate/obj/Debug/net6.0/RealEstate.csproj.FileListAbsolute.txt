@@ -1,0 +1,15 @@
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.exe
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\realestates.json
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.deps.json
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.runtimeconfig.json
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.dll
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\bin\Debug\net6.0\RealEstate.pdb
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.AssemblyInfoInputs.cache
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.AssemblyInfo.cs
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.csproj.CoreCompileInputs.cache
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.dll
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\refint\RealEstate.dll
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.pdb
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\RealEstate.genruntimeconfig.cache
+C:\Angéla\KULKER\2_ÉVF\RealEstate\RealEstate\obj\Debug\net6.0\ref\RealEstate.dll
